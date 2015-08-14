@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Chrono Widget</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="no_data">No data</string>
+
+    <string name="chrono_message_notification_title_template">Chrono message: %1$s</string>
+
+    <!-- TODO: remove this placeholder text -->
+    <string name="chrono_message_notification_placeholder_text_template">Time has finished</string>
+
+    <string name="action_share">Share</string>
+    <string name="action_reply">Reply</string>
+
+    <string name="cfg_date">Date</string>
+    <string name="cfg_time">Time</string>
+    <string name="cfg_textAlarm">Description</string>
+</resources>
